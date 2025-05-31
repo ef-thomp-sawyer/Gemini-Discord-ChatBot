@@ -1,5 +1,6 @@
 # Gemini Discord Bot
 
+<img src="https://i.ibb.co/V09my3rw/perfil1.jpg" width="165" height="165" alt="discord bot by than">
 Gemini Discord Bot is an advanced, multimodal Discord bot leveraging Google Generative AI capabilities. Besides text responses, this bot can read images, listen to audio files, watch videos, and interpret text files. This makes Gemini one of the most versatile AI assistants available for Discord.
 
 ## Features
